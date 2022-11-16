@@ -1,1 +1,2 @@
 print('깃에서 작업1')
+print('rlgus')
